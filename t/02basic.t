@@ -1,5 +1,5 @@
 
-use Test::More no_plan => 1; # FIXME
+use Test::More no_plan; # FIXME
 
 use ok( 'Regexp::Whitespace' );
 
