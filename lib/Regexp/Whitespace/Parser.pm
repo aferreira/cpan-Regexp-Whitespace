@@ -6,8 +6,6 @@ use Clone;
 
 package Regexp::Whitespace::Parser;
 
-our $VERSION = '0.001_0';
-
 use YAPE::Regex qw( Regexp::Whitespace::Parser );
 
 package Regexp::Whitespace::Parser::Element;

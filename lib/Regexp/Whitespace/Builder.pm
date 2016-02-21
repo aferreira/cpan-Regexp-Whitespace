@@ -5,8 +5,6 @@ use 5.008;
 use strict;
 use warnings;
 
-our $VERSION = '0.001_0';
-
 use Regexp::Whitespace::Parser ();
 
 use constant _debug => 0;

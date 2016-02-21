@@ -1,11 +1,11 @@
 
 package Regexp::Whitespace;
+# ABSTRACT: Whitespace insensitivity for regexes
 
 use 5.008;
 use strict;
 use warnings;
 
-our $VERSION = '0.001_0';
 our @ISA;
 
 BEGIN {
